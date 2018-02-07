@@ -1,5 +1,5 @@
-# Ants Project
-Ants vs. Bees, a Plants vs. Zombies like game written in python with GUI. This is a project of the CS61A course at UC Berkeley.
+# Ants
+Ants vs. Bees, a game inspired by PopCap Games' Plants Vs. Zombies, written in python with GUI.
 
 To play a text-based game, use:
 ```
