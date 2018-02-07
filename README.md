@@ -25,4 +25,6 @@ There are many options to configure:
 --food FOOD    number of food to start with when testing  
 
 usage:  
-ants.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
+```
+python3 ants.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
+```
