@@ -2,15 +2,20 @@
 Ants vs. Bees, a Plants vs. Zombies like game written in python with GUI. This is a project of the CS61A course at UC Berkeley.
 
 To play a text-based game, use:
+```
 python3 ants.py
+```
+
 
 To play a graphical game, use:
+```
 python3 gui.py
+```
 
 To play an older version of the graphics, run:
+```
 python3 ants_gui.py
-
-
+```
 
 There are many options to configure:
 
