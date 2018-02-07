@@ -17,11 +17,11 @@ To play an older version of the graphics, run:
 python3 ants_gui.py
 ```
 
-There are many options to configure:
+There are many options to configure:  
 
--h, --help     show this help message and exit
--d DIFFICULTY  sets difficulty of game (test/easy/medium/hard/insane)
--w, --water    loads a full layout with water
---food FOOD    number of food to start with when testing
+-h, --help     show this help message and exit  
+-d DIFFICULTY  sets difficulty of game (test/easy/medium/hard/insane)  
+-w, --water    loads a full layout with water  
+--food FOOD    number of food to start with when testing  
 
 usage: ants.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
